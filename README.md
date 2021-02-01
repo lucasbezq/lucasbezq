@@ -9,5 +9,5 @@ Sou apaixonado por tecnologia e por solucionar problemas reais através de códi
 
 <br>
 
-[![Lucas Barros stats](https://github-readme-stats.vercel.app/api?username=lucasbezq&show_icons=true&theme=radical)]
+![Lucas Barros stats](https://github-readme-stats.vercel.app/api?username=lucasbezq&show_icons=true&theme=radical)
 
