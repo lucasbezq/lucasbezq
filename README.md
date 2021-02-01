@@ -8,10 +8,4 @@ Sou apaixonado por tecnologia e amo desenvolver soluções para problemas. Atual
 
 <br>
 
-<a href="https://github.com/lucasbezq/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/lucasbezq/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbezq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
