@@ -8,4 +8,4 @@ Sou apaixonado por tecnologia e amo desenvolver soluções para problemas. Atual
 
 <br>
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasbezq)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasbezq)](https://github.com/lucasbezq/github-readme-stats)
