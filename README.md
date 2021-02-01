@@ -1,6 +1,8 @@
 Olá, meu nome Lucas e sou desenvolvedor beck end Java 👋
 
-Sou apaixonado por tecnologia e por solucionar problemas reais através de códigos. Atualmente trabalho como estagiário de desenvolvimento na iBlue Consulting. 
+Sou apaixonado por tecnologia e por solucionar problemas reais através de códigos. Atualmente trabalho como estagiário de desenvolvimento na iBlue Consulting.<br>
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <br>
 
