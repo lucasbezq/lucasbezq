@@ -3,7 +3,7 @@
 
 Olá, meu nome Lucas e sou desenvolvedor back end Java 👋
 
-Sou apaixonado por tecnologia e por solucionar problemas reais através de códigos. Atualmente trabalho como estagiário de desenvolvimento na iBlue Consulting.<br>
+Sou apaixonado pela tecnologia e pela possibilidade de poder solucionar problemas reais através de códigos. Atualmente trabalho como estagiário de desenvolvimento na iBlue Consulting.<br>
 
 <h3>📱Contatos:</h3>
 
