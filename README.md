@@ -1,3 +1,3 @@
-Olá, meu nome é Lucas e sou desenvolvedor beck end Java 👋
+Olá, meu nome Lucas e sou desenvolvedor beck end Java 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasbezq)](https://github.com/anuraghazra/github-readme-stats)
