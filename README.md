@@ -11,5 +11,5 @@ Sou apaixonado pela tecnologia e pela possibilidade de poder solucionar problema
 
 <br>
 
-![Lucas Barros stats](https://github-readme-stats.vercel.app/api?username=lucasbezq&show_icons=true&theme=dark)
+![Lucas Barros stats](https://github-readme-stats.vercel.app/api?username=lucasbezq&show_icons=true&theme=blueberry )
 
