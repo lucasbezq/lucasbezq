@@ -13,5 +13,4 @@ Sou apaixonado pela tecnologia e pela possibilidade de poder solucionar problema
 
 ![Lucas Barros stats](https://github-readme-stats.vercel.app/api?username=lucasbezq&show_icons=true&theme=blueberry )
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
