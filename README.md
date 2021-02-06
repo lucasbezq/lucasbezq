@@ -1,9 +1,9 @@
 <h1> Lucas Barros </h1>
 
 
-Olá, meu nome é Lucas e sou desenvolvedor back end Java 👋
+<p>Olá, meu nome é Lucas, tenho 22 anos e sou desenvolvedor back end Java 👋</p>
 
-Sou apaixonado pela tecnologia e pela possibilidade de poder solucionar problemas reais através de códigos. Atualmente trabalho como estagiário de desenvolvimento na iBlue Consulting.<br>
+<p>Sou apaixonado pela tecnologia e pela possibilidade de poder solucionar problemas reais através de códigos. Atualmente trabalho como estagiário de desenvolvimento na iBlue Consulting.</p><br>
 
 <h3>📱Contatos:</h3>
 
