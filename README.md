@@ -1,4 +1,4 @@
-<h1> Lucas Barros </h1>
+<h1> Lucas Ezequiel </h1>
 
 
 <p>Olá, me chamo Lucas, tenho 23 anos e sou desenvolvedor back end Java há aproximadamente 1 ano</p>
