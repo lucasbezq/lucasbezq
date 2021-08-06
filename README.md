@@ -3,7 +3,7 @@
 
 <p>Olá, me chamo Lucas, tenho 23 anos e sou desenvolvedor back-end Java há aproximadamente 1 ano</p>
 
-<p>Sou apaixonado pela tecnologia e pela possibilidade de poder solucionar problemas reais através de códigos.<br> Atualmente trabalho como Desenvolvedor Backend Java(Spring) na iBlue Consulting.</p>
+<p>Sou apaixonado pela tecnologia e pela possibilidade de poder solucionar problemas reais através de códigos.<br> Atualmente trabalho como Desenvolvedor Backend Java(Spring) na <b>Iblue Consulting.</p>
 
 
 <h3>📱Contatos:</h3>
