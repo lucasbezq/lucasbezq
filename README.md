@@ -1,9 +1,6 @@
 <h1> Lucas Ezequiel </h1>
 
-
-<p>Olá, me chamo Lucas, tenho 24 anos e sou desenvolvedor back-end</p>
-
-<p>Sou apaixonado pela tecnologia e pela possibilidade de poder solucionar problemas reais através de códigos.<br> Atualmente trabalho como <b>Desenvolvedor Backend Java(Spring)</b> na Iblue Consulting - Ciclic.
+<p>Olá, meu nome é Lucas e tenho 25 anos. Sou um desenvolvedor back-end apaixonado por tecnologia e pela capacidade que a programação tem de resolver problemas do mundo real. Atualmente, ocupo a posição de Desenvolvedor Backend Java (Spring) na Iblue Consulting - Ciclic.</p>
 
 
 
