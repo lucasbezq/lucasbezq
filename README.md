@@ -1,6 +1,11 @@
-<h1> Lucas Ezequiel </h1>
+## My name is Lucas Ezequiel
+(Java | Spring Boot | TDD | AWS | Javascript ) 🚀
+- 👩‍💻 Backend devloper at @[Ciclic](https://www.ciclic.com.br/)
+- 🎥 I create technical content and share it on my [Instagram](https://www.instagram.com/codewith.ezequiel/).
+- 🌱 I’m currently learning how to improve my backend and skills
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
 
-<p>Olá, meu nome é Lucas e tenho 26 anos. Sou um desenvolvedor back-end apaixonado por tecnologia e pela capacidade que a programação tem de resolver problemas do mundo real. Atualmente, ocupo a posição de Desenvolvedor Backend Java (Spring) na Iblue Consulting - Ciclic.</p>
 
 
 
